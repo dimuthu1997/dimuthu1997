@@ -1,7 +1,5 @@
-### Hello World, I'm Dimuthu  👋
+### Hi there, 👋 I'm Dimuthu. A final-year undergraduate in the Department of Information Communication Technology at the Rajarata University of Sri Lanka.
 
-
-## A passionate Software Engineer from Sri Lanka
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my first book.
 - 🌱 I’m currently learning React Native and Azure
