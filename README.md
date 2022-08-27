@@ -1,4 +1,4 @@
-### Hi there, 👋 I'm Dimuthu. A final-year undergraduate in the Department of Information Communication Technology at the Rajarata University of Sri Lanka.
+### <i>Hi there, 👋 I'm Dimuthu. A final-year undergraduate in the Department of Information Communication Technology at the Rajarata University of Sri Lanka.</i>
 
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my first book.
