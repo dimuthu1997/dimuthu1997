@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
 
 
-### Talk with me, I am kinda awesome:
+### Talk with me, I am Dimuthu awesome:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -45,7 +45,7 @@
 
 
 [instagram]: https://www.instagram.com/holistic_developer/
-[linkedin]: https://linkedin.com/in/annaarsentieva
+[linkedin]:  https://www.linkedin.com/in/dimuthu-dilshan-204351166/
 
 
 
