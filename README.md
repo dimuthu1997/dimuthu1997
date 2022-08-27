@@ -1,8 +1,3 @@
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimuthu1997&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimuthu1997&layout=compact)](https://github.com/dimuthu1997/github-readme-stats)
-
 ### Hello World, I'm Anna  👋
 
  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
@@ -64,3 +59,17 @@
 [instagram]: https://www.instagram.com/holistic_developer/
 [linkedin]: https://linkedin.com/in/annaarsentieva
 [portfolio]: https://arsentieva.github.io/profile/
+
+
+
+
+
+
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimuthu1997&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimuthu1997&layout=compact)](https://github.com/dimuthu1997/github-readme-stats)
+
+
