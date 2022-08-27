@@ -1,12 +1,11 @@
 ### <i>Hi there, 👋 I'm Dimuthu. A final-year undergraduate in the Department of Information Communication Technology at the Rajarata University of Sri Lanka.</i>
 
-- ✍ You can find my projects here [portfolio]
-- 🔭 I’m currently working on my first book.
-- 🌱 I’m currently learning React Native and Azure
+- ✍ You can find my projects here 
+- 🔭 I’m currently not involved in any project and willing to contribute to any. 
+- 🌱 I’m currently learning and/or refreshing my knowledge on Object Oriented Programming in Java, MySQL and whatever possible.
 - 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I speak 4 languages ( English, Spanish, Romanian, Russian)
+- 💬 Ask me about Anything here. If it is something I know, I can help you!
+
 
 <br />
 
