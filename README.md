@@ -1,3 +1,4 @@
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 ### <i>Hi there, 👋 I'm Dimuthu. A final-year undergraduate in the Department of Information Communication Technology at the Rajarata University of Sri Lanka.</i>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimuthu1997&label=Profile%20views&color=0e75b6&style=flat" alt="dimuthu1997" /> </p>
 
