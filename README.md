@@ -1,7 +1,7 @@
 <div class="separator" style="clear: both;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl-6SS01fFN9cEnv0bow7uA3uo0Q-AuT1KpL62esjvPHHA5Pj-z0qAxDollvvCGURQC6eBErWOCVlMemIEK52ASgiubcMPko7Sj-NwduRVJHp4QgtkByjLeZj7YIpVJ3NHDgOo8dk5cxZUe98vi8R4UXNV7pHDxrRrqAn6r1OCC08-T__xd7gVBVU1GA/s1600/dimu.png" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" data-original-height="300" data-original-width="900" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl-6SS01fFN9cEnv0bow7uA3uo0Q-AuT1KpL62esjvPHHA5Pj-z0qAxDollvvCGURQC6eBErWOCVlMemIEK52ASgiubcMPko7Sj-NwduRVJHp4QgtkByjLeZj7YIpVJ3NHDgOo8dk5cxZUe98vi8R4UXNV7pHDxrRrqAn6r1OCC08-T__xd7gVBVU1GA/s1600/dimu.png"/></a></div>
 
 
-### <i>Hi there, 👋 I'm Dimuthu. A final-year undergraduate in the Department of Information Communication Technology at the Rajarata University of Sri Lanka.</i>
+### <i>Hi there, 👋 I'm Dimuthu, and I am An Associate software Engineer.</i>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimuthu1997&label=Profile%20views&color=0e75b6&style=flat" alt="dimuthu1997" /> </p>
 
 - ✍ You can find my projects here 
